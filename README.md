@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 - 💻 I have worked on HTML/CSS, Javascript, Php, React, Nodejs, Expressjs, MySQL, MongoDB etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - 📫 How to reach me: <a href="#" alt="portfolio link">portfolio</a> || yash.04may@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <
 ### Show some ❤️ by starring some of the repositories!
