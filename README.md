@@ -29,4 +29,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href ="https://github-readme-stats.vercel.app/api?username=mryash04&theme=highcontrast&show_icons=true&count_private=true"> </a>
+<
+### Show some ❤️ by starring some of the repositories!
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=mryash04&theme=highcontrast&show_icons=true&count_private=true)
