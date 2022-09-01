@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Node.js, Express.js, React, JavaScript etc.
 - 🌱 I’m currently learning Full Stack Development .
-- 👯 I’m looking to collaborate for internship in Web Devlopment.
+- 👯 I’m looking for working as Full Stack Developer.
 - 💻 I have worked on HTML/CSS, Javascript, Php, React, Nodejs, Expressjs, MySQL, MongoDB etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - 📫 How to reach me: <a href="https://portfoliowebyashagrwal.netlify.app" alt="portfolio link">portfolio</a> || yash.04may@gmail.com
